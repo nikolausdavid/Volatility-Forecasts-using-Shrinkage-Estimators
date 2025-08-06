@@ -1,4 +1,4 @@
-<img src="figures/LASSO-HAR_reg_paths.png" alt="Lasso Regularization Paths - Machine Learning Visualized" width="1000px" />
+<img src="figures/REG_PATHS_ILLUSTRATION.png" alt="Lasso Regularization Paths - Machine Learning Visualized" width="1000px" />
 
 # Volatility Forecasting with Shrinkage Estimators
 
