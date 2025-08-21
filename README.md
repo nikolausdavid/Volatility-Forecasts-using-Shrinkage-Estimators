@@ -3,6 +3,8 @@
 # Volatility Forecasting with Shrinkage Estimators
 
 &#x20;
+[![View Thesis PDF](https://img.shields.io/badge/PDF-Volatility%20Forecast%20Thesis-blue?style=for-the-badge&logo=adobeacrobatreader)](VolForecastForeignXchangeShrinkageEstimators.pdf)
+&#x20;
 
 ## Table of Contents
 
